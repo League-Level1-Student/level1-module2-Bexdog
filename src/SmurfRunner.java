@@ -10,5 +10,6 @@ public static void main(String[] args) {
 	System.out.println(Papa.getName());
 	System.out.println(Papa.getHatColor());
 	System.out.println(Papa.isGirlOrBoy());
+
 }
 }
