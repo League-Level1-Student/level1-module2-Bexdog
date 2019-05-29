@@ -8,6 +8,7 @@ public static void main(String[] args) {
 	pixel.setColor(255,0,255);
 	pixel.drawRectangle(25, 10, 20, 20);
 	pixel.drawCircle(12, 5, 3);
+	pixel.drawCircle(32, 15, 7);
 	pixel.drawTriangle(80, 80, 100, 80, 90, 110);
 	pixel.saveImage();
 	pixel.displayImage();
