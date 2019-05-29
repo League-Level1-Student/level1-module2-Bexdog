@@ -42,7 +42,7 @@ public class Smurf {
 	/* Smurfette is the only female Smurf. */
 	public String isGirlOrBoy() {
 		// 4. Fill in this method
-		if(getName().equals("Smurfett")) {
+		if(getName().equals("My name is Smurfette Smurf.")) {
 			return "Girl";
 		}
 		else {
